@@ -1,3 +1,4 @@
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: 用户编号:    Xing Qingyu <xqy@srv.pub>
 Comment: 又名:    xqymain <xqy@tts.ac.cn>
@@ -37,3 +38,4 @@ XaLVf6NtpdXX22Ev2Zy1CQyXj1bamzOU9k2ul4xzTA2YCAD/YfMU+iuA+mB/ZARl
 BUZv7UsL
 =Pr6A
 -----END PGP PUBLIC KEY BLOCK-----
+```
